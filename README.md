@@ -33,7 +33,6 @@ I care deeply about code clarity so that anyone who collaborates with me can und
 
 **Stack:** TypeScript | React.js | Tailwind CSS | Express.js | PostgreSQL
 
-
 **Tools:** Notion | Excalidraw | Postman | Figma
 
 ---
