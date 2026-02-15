@@ -24,6 +24,8 @@ I build applications that solve real-world problems.
 I believe good software is not just about making things work — it's about making them clear, maintainable, and collaborative.
 
 I care deeply about code clarity so that anyone who collaborates with me can understand, contribute, and scale the project comfortably.
+
+
 ---
 
 ## 🛠️ Tech & Tools
