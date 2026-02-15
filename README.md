@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-
+![Profile Picture](66934858_p0_master1200.jpg)
 # Hi, I'm Fadel Najmi Adliansyah 👋
 
 I build applications that solve real-world problems.
