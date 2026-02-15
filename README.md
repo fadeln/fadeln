@@ -37,8 +37,10 @@ I care deeply about code clarity so that anyone who collaborates with me can und
 
 ## ✨ Fun Facts
 
--🍵 Drink pure matcha
--📚 Read books
--🎮 Casual gamer
+🍵 Drink pure matcha
+
+📚 Read books
+
+🎮 Casual gamer
 
 
