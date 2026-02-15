@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **fadeln/fadeln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Got it! Here's a **simpler, clean version** of your previous README while keeping it friendly and readable:
 
----
 
 # Hi, I'm Fadel Najmi Adliansyah 👋
 
