@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="lainbg.gif" alt="Full Width" width="100%"/>
+<img src="mybanner.jpg" alt="Full Width" width="100%"/>
 
 # Hi, I'm Fadel Najmi Adliansyah 👋
 
