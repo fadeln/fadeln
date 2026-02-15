@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="lainbg.gif" alt="Coding" width="200"/>
+<img src="lainbg.gif" alt="Full Width" width="100%"/>
 
 # Hi, I'm Fadel Najmi Adliansyah 👋
 
