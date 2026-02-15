@@ -19,24 +19,29 @@ Here are some ideas to get you started:
 
 <img src="mybanner.jpg" alt="Full Width" width="100%"/>
 
-# Hi, I'm Fadel Najmi Adliansyah 👋
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-I build applications that solve real-world problems.
+I'm [**Fadel Najmi Adliansyah**](https://fadelnajmi.dev/), a fullstack developer based in indonesia. i build app to solve real world problems.
 
-I believe good software is not just about making things work — it's about making them clear, maintainable, and collaborative.
+**These days I’m focused on:**
+- Docker and CI/CD
+- Learning SAP for business applications
+- Developing a fullstack web app for resource management
 
-I care deeply about code clarity so that anyone who collaborates with me can understand, contribute, and scale the project comfortably.
+**In the past, I have worked on:**
+- Fullstack web development with TypeScript, React, Express, and PostgreSQL
+- Building applications that solve real-world problems and improve workflows
+- Collaborating with teams to deliver maintainable, user-friendly software
 
+---
 
-
-
-## 🛠️ Tech & Tools
-
-**Stack:** TypeScript | React.js | Tailwind CSS | Express.js | PostgreSQL
-
-**Tools:** Notion | Excalidraw | Postman | Figma
-
-
+**Some stuff I built:**
+- [Inventory Management](https://github.com/fadeln/inventory-management) -  – Web app for item tracking with signature-based approvals
+- [portal alumni](https://github.com/fadeln/portal-alumni) -  Web-Based Alumni Engagement & Career Insights Platform
+- [
+Wasteless Eats](https://github.com/fadeln/wastelesseats) -  Kotlin Android App for Food Waste Reduction
+---
 
 📧 Drop me a line: [contact@fadelnajmi.dev](mailto:contact@fadelnajmi.dev) (or contact [at] fadelnajmi [dot] dev)
+
 
