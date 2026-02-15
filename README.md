@@ -41,10 +41,5 @@ I care deeply about code clarity so that anyone who collaborates with me can und
 * 📚 Enjoy reading non-fiction books
 * 🎮 Casual gamer
 
----
-
-> “Build things that matter. Keep them simple. Make them last.”
-
----
 
 
