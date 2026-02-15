@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 
-![Profile Picture](lainbg.gif)
+<img src="lainbg.gif" alt="Coding" width="200"/>
+
 # Hi, I'm Fadel Najmi Adliansyah 👋
 
 I build applications that solve real-world problems.
