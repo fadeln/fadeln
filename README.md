@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-![Profile Picture](mybanner.jpg)
+![Profile Picture](lainbg.gif)
 # Hi, I'm Fadel Najmi Adliansyah 👋
 
 I build applications that solve real-world problems.
