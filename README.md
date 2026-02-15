@@ -37,11 +37,5 @@ I care deeply about code clarity so that anyone who collaborates with me can und
 
 ---
 
-## ✨ Fun Facts
-
-* 🍵 I love pure bitter matcha
-* 📚 Enjoy reading non-fiction books
-* 🎮 Casual gamer
-
 
 
