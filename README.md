@@ -38,5 +38,5 @@ I care deeply about code clarity so that anyone who collaborates with me can und
 
 
 
-📧 Email: [contact@fadelnajmi.dev](mailto:contact@fadelnajmi.dev) (or contact [at] fadelnajmi [dot] dev)
+📧 Drop me a line: [contact@fadelnajmi.dev](mailto:contact@fadelnajmi.dev) (or contact [at] fadelnajmi [dot] dev)
 
