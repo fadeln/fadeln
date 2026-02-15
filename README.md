@@ -36,10 +36,10 @@ I'm [**Fadel Najmi Adliansyah**](https://fadelnajmi.dev/), a fullstack developer
 ---
 
 **Some stuff I built:**
-- [Inventory Management](https://github.com/fadeln/inventory-management) -  – Web app for item tracking with signature-based approvals
-- [portal alumni](https://github.com/fadeln/portal-alumni) -  Web-Based Alumni Engagement & Career Insights Platform
+- [Inventory Management](https://github.com/fadeln/inventory-management) - Web app for item tracking with signature-based approvals
+- [portal alumni](https://github.com/fadeln/portal-alumni) - Web-Based Alumni Engagement & Career Insights Platform
 - [
-Wasteless Eats](https://github.com/fadeln/wastelesseats) -  Kotlin Android App for Food Waste Reduction
+Wasteless Eats](https://github.com/fadeln/wastelesseats) - Kotlin Android App for Food Waste Reduction
 ---
 
 📧 Drop me a line: [contact@fadelnajmi.dev](mailto:contact@fadelnajmi.dev) (or contact [at] fadelnajmi [dot] dev)
