@@ -36,3 +36,7 @@ I care deeply about code clarity so that anyone who collaborates with me can und
 
 **Tools:** Notion | Excalidraw | Postman | Figma
 
+
+
+📧 Email: [contact@fadelnajmi.dev](mailto:contact@fadelnajmi.dev) (or contact [at] fadelnajmi [dot] dev)
+
