@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 I'm [**Fadel Najmi Adliansyah**](https://fadelnajmi.dev/), a fullstack developer based in indonesia. i build app to solve real world problems.
 
 **These days I’m focused on:**
-- Docker and CI/CD
+- Tanstack Start Framework
 - Learning SAP for business applications
 - Developing a fullstack web app for resource management
 
